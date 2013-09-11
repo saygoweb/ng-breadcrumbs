@@ -1,0 +1,6 @@
+
+/* Breadcrumbs */
+.breadcrumb > li .divider {
+	padding: 0 5px;
+	color: #ccc;
+}
